@@ -1,0 +1,22 @@
+{
+  "name": "appointment-booking-app",
+  "version": "1.0.0",
+  "description": "Uses useReducer hook and ReactStrap for styling.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-scripts": "2.0.3",
+    "reactstrap": "7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
